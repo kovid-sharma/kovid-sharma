@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
--  I’m currently learning Android Development and Data Structures & Algorithms.
+-  I’m currently learning Data Structures & Algorithms.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kovid-sharma&theme=holi-theme)](https://git.io/streak-stats)
 
