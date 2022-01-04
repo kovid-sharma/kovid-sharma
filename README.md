@@ -13,16 +13,7 @@ Doing Nothing
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 10  </li>
-  	    <li><b>Browser: </b> Edge </li>
-	    <li><b>Code Editor:</b> Clion </li>
-	    <br />
-	</ul>	
-</details>
+
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
