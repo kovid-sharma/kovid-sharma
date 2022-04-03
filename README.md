@@ -13,5 +13,3 @@ Learning Data Structures and Algorithms
 </details>
 
 
-## PROFILE VIEWS 
-![VisitorCount](https://profile-counter.glitch.me/kovid-sharma/count.svg)
