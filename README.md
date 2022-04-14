@@ -2,7 +2,7 @@
 
 ## Currently I'm:
 
-Learning Data Structures and Algorithms
+Learning Web Developement
 ----
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
