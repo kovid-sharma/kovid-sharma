@@ -2,7 +2,7 @@
 
 ## Currently I'm:
 
-Learning Web Developement.
+Learning Flutter 
 ----
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
